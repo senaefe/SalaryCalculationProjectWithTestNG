@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AccountingTestSuite">
+    <test name="AccountingTest">
+        <classes>
+            <class name="test.SalaryCalculationTest"/>
+            <class name="test.SalaryCalculationTestWithDataProvider"/>
+        </classes>
+    </test>
+</suite>
