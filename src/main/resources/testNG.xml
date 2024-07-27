@@ -2,8 +2,8 @@
 <suite name="AccountingTestSuite">
     <test name="AccountingTest">
         <classes>
-            <class name="test.SalaryCalculationTest"/>
-            <class name="test.SalaryCalculationTestWithDataProvider"/>
+            <class name="com.rd.SalaryCalculationTest"/>
+            <class name="com.rd.SalaryCalculationTestWithDataProvider"/>
         </classes>
     </test>
 </suite>

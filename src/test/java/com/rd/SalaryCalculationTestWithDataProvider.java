@@ -1,4 +1,4 @@
-package test;
+package com.rd;
 
 import com.rd.SalaryCalculation.SalaryCalculationWithDataProvider;
 import org.testng.Assert;
